@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Realtime Chat App using Spring Boot**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Apache Kafka**
 
 - 📫 How to reach me **bersanklc02@gmail.com**
 
